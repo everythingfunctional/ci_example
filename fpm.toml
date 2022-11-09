@@ -1,0 +1,6 @@
+name = "ci-example"
+version = "0.1.0"
+license = "MIT"
+author = "Brad Richardson"
+maintainer = "everythingfunctional@protonmail.com"
+copyright = "Copyright 2022, Brad Richardson"
